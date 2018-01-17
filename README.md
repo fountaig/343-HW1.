@@ -1,3 +1,1 @@
- 342 -HW1.
-# 343-HW1.
-# 343-HW1.
+Some of the most common git commands I'll be using are git add to add new files to a repository, git status to check if any changes are made to a group project, get push to send commands to the gitwebsite, and get diff to see what changes where made.
